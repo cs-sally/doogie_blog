@@ -1,9 +1,9 @@
 ---
 layout: post
-title: " s01e26-frankly-mydear-Idon't give a grand"
+title: s01e26s01-"Frankly, My Dear, I Don't Give a Grand."
 ---
 
-#### Scene 1: In the hotel 
+#### Scene 01: In the hotel 
 : Vinee and Doogie are coming into a hotel. 
 
 1. Viniee expects his first night. 

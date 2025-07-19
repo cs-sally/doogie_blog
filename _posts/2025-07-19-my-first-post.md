@@ -1,6 +1,6 @@
 ---
 layout: post
-title: " My Awesome Doogie Post"
+title: " My Awesome First Post"
 ---
 
 # Introduction
