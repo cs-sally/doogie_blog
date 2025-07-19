@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: Doogie Howser, M.D. - The Blog
+title: Post
 ---
 
 ## Welcome to Doogie's Digital Diary!
