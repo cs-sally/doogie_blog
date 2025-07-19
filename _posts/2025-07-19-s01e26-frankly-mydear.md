@@ -1,50 +1,54 @@
 ---
 layout: post
-title: " s01e26_frankly_mydear"
+title: " s01e26-frankly-mydear-Idon't give a grand"
 ---
 
-# "Frankly, My Dea, I don't give a grand"
 ## Subtitle 1: In the hotel 
-: Vinee and Doogie are coming into a hotel. Viniee expects his first night. 
+: Vinee and Doogie are coming into a hotel. 
 
-How did you find this place? 
+1. Viniee expects his first night. 
 
-Some travel magazine 
+2. How did you find this place? 
 
-This came in third on the list of 10 best spot FOR AN AFTERNOON DELIGHT. 
+3. Some travel magazine 
 
-May I help you 
+4. This came in third on the list of 10 best spot FOR AN AFTERNOON DELIGHT. 
 
-I would like the room for the night please. 
+5. May I help you 
 
-Single or double ?
+6. I would like the room for the night please. 
 
-double 
+7. Single or double ?
 
-Nothing too flash unless you've got something in a honey moon?  
+8. double 
 
-The Bridal party will be arriving later. 
+9. Nothing too flash unless you've got something in a honey moon?  
 
-How FESTIVE 
+10. The Bridal party will be arriving later. 
 
-IF HONEYMOON SUITE UNAVAILIBLE, I will take anything with a king size bed, and thick wall. 
+11. 1How FESTIVE 
 
-I will see what's available.
+12. IF HONEYMOON SUITE UNAVAILIBLE, I will take anything with a king size bed, and thick wall. 
 
-I wonder what she'll be wearing 
+13. I will see what's available.
 
-I AM CRAVIG LACE 
+14. I wonder what she'll be wearing. 
 
-You are gonna have to calm down, you are starting to sweat. 
+15. I am craving lace.
 
-I know, my THROAT is too tight, I can't even SWALLOW 
+16. You are gonna have to calm down, you are starting to sweat. 
 
-I THINK This might be performing anxiety 
+17. I know, my THROAT is too tight, I can't even SWALLOW 
 
-I think you are putting pressure too much on yourself,  
+18. I THINK This might be performing anxiety 
 
-maybe you'VE got unrealistic expectation 
+19. I think you are putting pressure too much on yourself,  
 
-NO, I don't . I just WANT THIS TO BE THE most incredible fantastic night OF my entire life. 
+20. Maybe you've got unrealistic expectation. 
 
-//////////////////////////////// 
+21. NO, I don't. I just WANT THIS TO BE THE most incredible fantastic night OF my entire life. 
+
+/////////// intro music ////////////
+
+## Expressions
+* I don't give a grand: I don't give a damn, I don't care
