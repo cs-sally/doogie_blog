@@ -3,7 +3,7 @@ layout: post
 title: " s01e26-frankly-mydear-Idon't give a grand"
 ---
 
-## Subtitle 1: In the hotel 
+#### Scene 1: In the hotel 
 : Vinee and Doogie are coming into a hotel. 
 
 1. Viniee expects his first night. 
@@ -50,5 +50,5 @@ title: " s01e26-frankly-mydear-Idon't give a grand"
 
 /////////// intro music ////////////
 
-## Expressions
+#### Expressions
 * I don't give a grand: I don't give a damn, I don't care
