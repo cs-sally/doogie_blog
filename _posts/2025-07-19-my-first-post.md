@@ -1,6 +1,7 @@
 ---
 layout: post
 title: " My Awesome First Post"
+categories: post
 ---
 
 # Introduction
