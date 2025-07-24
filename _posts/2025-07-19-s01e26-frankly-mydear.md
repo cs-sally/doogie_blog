@@ -1,7 +1,7 @@
 ---
 layout: post
 title: s01e26s01-"Frankly, My Dear, I Don't Give a Grand."
-categories: diary
+categories: post
 ---
 
 #### Scene 01: In the hotel 
