@@ -35,23 +35,21 @@ Which one of us do I rub this on ?
 
 32. I am sweaten, dry thrroat, kind of woozy, 
 
-33. I was wreck, I think it's normal
+33. I was wreck, I think it's normal.
 
-34. They're here
+34. They're here.
 
-35. Ok, relax, you are a stud
-This is your moment.
+35. Ok, relax, you are a stud. This is your moment.
 
 36. Are you gonna throw up ?
 
 37. No, I'm gonna faint.
 
-38. Come on it, 
-Vinee is just getting some air.
+38. Come on it, Vinee is just getting some air.
 
 39. You look amazing.
 
-40. 4Thanks
+40. Thanks
 
 41. This really nice room. 
 42. This borders on posh. I can't believe you picked out and pay for it.
@@ -62,7 +60,7 @@ What does that mean ?
 
 44. I think it means we shold get out of here.
 
-55. Vinnei and Jeanie are so funny together
+45. Vinnei and Jeanie are so funny together
 
 #### Vocabulary
 
