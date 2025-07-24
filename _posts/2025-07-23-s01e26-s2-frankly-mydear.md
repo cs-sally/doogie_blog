@@ -7,7 +7,7 @@ categories: post
 ### Scene 2 : In the hotel room 
 : Vinee and Doogie invited Jeanie and Wanda
 
-22. This spring doogie, we are lift off
+22. There's spring doogie, we have lift off
 The  -kit
 
 23. Yea, Jeannie is gonna be really impressed
@@ -20,12 +20,12 @@ He ain't just for Christmas.
 One bottle of Dr. 's sex tonic, 
 Which one of us do I rub this on ?
 
-25. How did you say that, 
+25. Let me see that.
 26. You know, vinnie, medical evidence of aphrosidiacs is very flimsy.
 
 26. I don't want any of your sceicne. I try to create a little romantic ambience here. 
 
-28. One of precautionary measures,and one airline sickness back here. You know my history of neves and women. 
+28. One of precautionary measures,and one airline sickness bacg here. You know my history of neves and women. 
 
 29. Vine relax, sex is mostly in your mind, nobody has a mind for it quite like yours. 
 
@@ -52,10 +52,11 @@ Which one of us do I rub this on ?
 40. Thanks
 
 41. This really nice room. 
-42. This borders on posh. I can't believe you picked out and pay for it.
+42. This borders on posh. 
+43. I can't believe you picked it    out and pay for it.
 
 43. Oh, we should take this for a souvenir !
-Wanda you've been brushing up on your french.
+43. Wanda you've been brushing up on your french.
 What does that mean ?
 
 44. I think it means we shold get out of here.
@@ -73,7 +74,7 @@ What does that mean ?
 * throw up: vomit
 * faint
 * stud: for man, very attractive physically particulary, virile (informal)
-* borders on: is almost, is very closed to, is on the verge of
+* borders on: is almost, is very closed to, is on the verge of (negative)
 * posh: elegant, stylishly luxurious borders on posh - upper class or wealth.
 * ambience: mood
 * venus de milo with arms
@@ -81,7 +82,7 @@ What does that mean ?
 * brushing up on your french: reviewing, refreshing, improving, polishing
 * airline sickness bag
 * burning up
-* lift off: rocket or aircraft leaves the  ground and begins to ascend
+* lift off: noun. rocket or aircraft leaves the  ground and begins to ascend
 * precautionary measures: carried out as a precaution
 
 
